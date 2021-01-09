@@ -30,7 +30,8 @@ Além disso, também contém links úteis sobre o mundo Apple.
 
 Comunidades:
 
-[1] - [Discord: Rocketseat - #Swift]()
+[1] - [Discord: Rocketseat - #Swift](https://rocketseat.com.br)
+Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O site vai ser redirecionado para o link de acesso da comunidade no Discord.
 
 ---
 ### Cursos gratuitos
@@ -43,7 +44,7 @@ Obs: Abaixo, no link [2] do Youtube, o Filipe Deschamps ensina como ativar as le
 
 ### Cursos pagos
 
----
+--- 
 
 ### Instagram
 
@@ -61,7 +62,7 @@ Obs: Na escolha do e-book, voce terá o direito de acesso às futuras atualizaç
 ### Podcasts
 
 [1] - [Build Failed Podcast (pt-br)](https://open.spotify.com/show/6sOFIDT8ELXygixjYBTAb2?si=WcdJEoecRtiq2AY5_U2gQw)
-Apresentado por Bruno Ramos (desenvolvedor IOS no IFood), Fabrício Serralvo (desenvolvedor IOS no IFood) e Bruno Rocha (desenvolvedor IOS no Spotify).
+Apresentado por [Bruno Ramos (desenvolvedor IOS no IFood)](https://github.com/bruno-hcr), [Fabrício Serralvo (desenvolvedor IOS no IFood)](https://github.com/serralvo) e [Bruno Rocha (desenvolvedor IOS no Spotify)](https://github.com/rockbruno).
 
 [2] - [MacMagazine no Ar](https://open.spotify.com/show/52IrqJ0ZwPVp0kKXaOWnLP?si=bRsNjP24QyG7Pqol_evtEw)
 Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na língua portuguesa.
@@ -92,15 +93,15 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 
 #### Vídeos / Playlists
 
-[1] - [Código Fonte TV: Swift (a linguagem do IOS)](https://www.youtube.com/watch?v=ELa-PgWlYDI)
+[1] - [Attekita Dev: Aprenda Swift e se torne um desenvolvedor IOS com cursos gratuitos 📱](https://www.youtube.com/watch?v=OV47giYphmk&t)
 
-[2] - [Filipe Deschamps: Curso grátis Swift e SwiftUI (Stanford 2020)](https://www.youtube.com/watch?v=r18Bvr3Dyfg&list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC&index=1)
+[2] - [Código Fonte TV: Swift (a linguagem do IOS)](https://www.youtube.com/watch?v=ELa-PgWlYDI)
 
-[3] - [Attekita Dev: Aprenda Swift e se torne um desenvolvedor IOS com cursos gratuitos 📱](https://www.youtube.com/watch?v=OV47giYphmk&t=163s)
+[3] - [Filipe Deschamps: Curso grátis Swift e SwiftUI (Stanford 2020)](https://www.youtube.com/watch?v=r18Bvr3Dyfg&list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC&index=1)
 
-[4] - [Thiago Aguiar: Tutoriais IOS](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
+[4] - [Nina Talks: Unboxing Prêmios Apple Swift Student Challenge 2020](https://www.youtube.com/watch?v=i4SISbXTcjM)
 
-[5] - [Nina Talks: Unboxing Prêmios Apple Swift Student Challenge 2020](https://www.youtube.com/watch?v=i4SISbXTcjM)
+[5] - [Thiago Aguiar: Tutoriais IOS](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
 
 ---
 
@@ -140,7 +141,7 @@ Fonte do texto: https://developeracademyucb.com.br
 
 [9] - [UCB - Universidade Católica de Brasília](https://developeracademyucb.com.br)
 
-[10] - [UFPE - Universidade Federal do Pernambuco]()
+[10] - [UFPE - Universidade Federal do Pernambuco](https://academy.cin.ufpe.br/index.php/pt/academia/)
 
 ---
 
@@ -154,7 +155,7 @@ Fonte do texto: https://developeracademyucb.com.br
 
 ---
 
-## Opções de conteúdo em Inglês
+# Opções de conteúdo em Inglês
 
 ### Sites
 
