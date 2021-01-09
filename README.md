@@ -40,9 +40,13 @@ Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O
 
 Obs: Abaixo, no link [2] do Youtube, o Filipe Deschamps ensina como ativar as legendas em português brasileiro da lista de vídeos do curso da Stanford, mencionado acima.
 
+[2] - [Digital Innovation One: Conhecendo a base do Swift](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
+
 ---
 
 ### Cursos pagos
+
+[1] - [Alura: Formação IOS](https://www.alura.com.br/formacao-ios)
 
 --- 
 
@@ -74,6 +78,8 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 [1] - [DevMedia: Desenvolvimento IOS: Conheça a linguagem Swift (2014)](https://www.devmedia.com.br/desenvolvimento-ios-conheca-a-linguagem-swift/31860)
 
 [2] - [Código Fonte: 5 dicas para se tornar um desenvolvedor de Swift (2017)](https://www.codigofonte.com.br/artigos/5-dicas-para-se-tornar-um-desenvolvedor-de-swift)
+
+[3] - [MacMagazine: Apple leva linguagem de programação Swift ao Windows (22/09/2020)](https://macmagazine.com.br/post/2020/09/22/apple-leva-linguagem-de-programacao-swift-ao-windows/)
 
 ---
 
