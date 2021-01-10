@@ -21,13 +21,18 @@ Além disso, também contém links úteis sobre o mundo Apple.
 | Podcasts                                                            |     [PT-BR](#podcasts-pt-br)     |     [EN (indisponível)](#podcasts-en)     |
 | Sites                                                               |      [PT-BR](#sites-pt-br)       |      [EN](#sites-en)       |
 | Youtube                                                             |     [PT-BR](#youtube-pt-br)      |     [EN](#youtube-en)      |
-| [Sobre o Apple Developer Academy](#sobre-o-apple-developer-academy) ||
-| [Universidades Brasileiras](#universidades-brasileiras)             ||
+
+&nbsp;
+
+| [Sobre o Apple Developer Academy](#sobre-o-apple-developer-academy) |
+| :---------------------------|
+| [Universidades Brasileiras](#universidades-brasileiras)             |
 
 &nbsp;
 
 <center>
 <img width="auto" src="./Develop-in-Swift.png">
+<a href="https://appleeducation.catalog.instructure.com">Fonte da imagem</a>
 </center>
 
 ---
@@ -153,6 +158,52 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 
 ---
 
+## Veja também:
+
+### [LearnBR](https://github.com/learnbr): Um agrupador de link's de conteúdos para auxiliar no aprendizado ✌️
+
+### | [Site](https://learnbr.github.io) | [Repositório](https://github.com/learnbr/swift)
+
+---
+
+&nbsp;
+&nbsp;
+
+# Conteúdos em Inglês
+
+[Voltar ao índice](#índice)
+
+### Sites EN
+
+[1] - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com)
+
+---
+### Youtube EN
+
+#### Canais
+
+[1] - [Paul Hudson from Hacking with Swift](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
+
+[2] - [Mayuko Inoue | IOS Engineer](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
+
+[3] - [Sara Dietschy | Rhymes with peachy](https://www.youtube.com/user/saradietschy)
+
+#### Vídeos / Playlists
+
+[1] - [Paul Hudson: SwiftUI from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK)
+
+[2] - [Paul Hudson: SwiftUI by Examples from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q)
+
+[3] - [Paul Hudson: Xcode in 20 seconds from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7)
+
+[4] - [Paul Hudson: Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuas6GrfsUiFPShGXmaVDbgN)
+
+[5] - [Paul Hudson: Swift in Sixty Seconds from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuajnHpp2jKCyOz2ZhP5OTkN)
+
+---
+
+&nbsp;
+
 ## Sobre o Apple Developer Academy
 
 [Voltar ao índice](#índice)
@@ -204,41 +255,20 @@ Fonte do texto: https://developeracademyucb.com.br
 [3] - [Giovana Garcia Ribeiro: Vídeo de inscrição "Ensine algo que você sabe" para o processo seletivo Apple Developer Academy 2021/22](https://www.youtube.com/watch?v=X_qupS862DY)
 
 ---
-&nbsp;
-&nbsp;
 
-# Conteúdos em Inglês
+## Contribuições sempre são bem-vindas 👨🏻‍💻
 
-[Voltar ao índice](#índice)
+- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/swift-pt-br/fork);
+- [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
+- [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
+- [x] Faça um Push ` git push origin my-new-feature ` ;
+- [x] Crie uma nova pull request neste repositório.
 
-### Sites EN
-
-[1] - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com)
-
----
-### Youtube EN
-
-#### Canais
-
-[1] - [Paul Hudson from Hacking with Swift](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
-
-[2] - [Mayuko Inoue | IOS Engineer](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
-
-[3] - [Sara Dietschy | Rhymes with peachy](https://www.youtube.com/user/saradietschy)
-
-#### Vídeos / Playlists
-
-[1] - [Paul Hudson: SwiftUI from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuaZtX7xSYbWz3TR0Vpz39gK)
-
-[2] - [Paul Hudson: SwiftUI by Examples from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTubw4NtepDCis5tTqK37zT3Q)
-
-[3] - [Paul Hudson: Xcode in 20 seconds from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7)
-
-[4] - [Paul Hudson: Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuas6GrfsUiFPShGXmaVDbgN)
-
-[5] - [Paul Hudson: Swift in Sixty Seconds from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuajnHpp2jKCyOz2ZhP5OTkN)
+**Depois que sua pull request for merged, você pode excluir sua branch tranquilamente.**
 
 ## [Voltar ao topo ^](#índice)
+
+&nbsp;
 
 ---
 
