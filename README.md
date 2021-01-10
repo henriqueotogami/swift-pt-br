@@ -266,7 +266,7 @@ Fonte do texto: https://developeracademyucb.com.br
 - [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
 - [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um Push ` git push origin my-new-feature ` ;
-- [x] Crie uma nova pull request neste repositório.
+- [x] Crie uma nova pull request neste repositório. :octocat:
 
 **Depois que sua pull request for merged, você pode excluir sua branch tranquilamente.**
 
