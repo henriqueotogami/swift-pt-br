@@ -64,6 +64,7 @@ Além disso, também contém links úteis sobre o mundo Apple.
 [Voltar ao índice](#índice)
 
 [1] - [Discord: Rocketseat - #Swift](https://rocketseat.com.br)
+
 Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O site vai ser redirecionado para o link de acesso da comunidade no Discord.
 
 ---
@@ -73,7 +74,7 @@ Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O
 
 [1] - [Stanford University: CS193p Iphone Application Development - Spring 2020](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 
-Obs: Abaixo, no link [2] do Youtube, o Filipe Deschamps ensina como ativar as legendas em português brasileiro da lista de vídeos do curso da Stanford, mencionado acima.
+Obs: Abaixo, no link do [Youtube PT-BR](#youtube-pt-br), o [Filipe Deschamps](https://github.com/filipedeschamps) ensina como ativar as legendas em português brasileiro da lista de vídeos do curso da Stanford, mencionado acima.
 
 [2] - [Digital Innovation One: Conhecendo a base do Swift](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
 
@@ -100,7 +101,8 @@ Obs: Abaixo, no link [2] do Youtube, o Filipe Deschamps ensina como ativar as le
 [Voltar ao índice](#índice)
 
 [1] - [Casa do Código: Swift - Programe para Iphone e Ipad. Escrito por Guilherme Silveira e Joviane Jardim.](https://www.casadocodigo.com.br/products/livro-swift-ios)
-Obs: Na escolha do e-book, voce terá o direito de acesso às futuras atualizações do livro.
+
+Obs: Na escolha do E-book, voce terá o direito de acesso às futuras atualizações do livro.
 
 ---
 
@@ -109,10 +111,12 @@ Obs: Na escolha do e-book, voce terá o direito de acesso às futuras atualizaç
 [Voltar ao índice](#índice)
 
 [1] - [Build Failed Podcast (pt-br)](https://open.spotify.com/show/6sOFIDT8ELXygixjYBTAb2?si=WcdJEoecRtiq2AY5_U2gQw)
+
 Apresentado por [Bruno Ramos (desenvolvedor IOS no IFood)](https://github.com/bruno-hcr), [Fabrício Serralvo (desenvolvedor IOS no IFood)](https://github.com/serralvo) e [Bruno Rocha (desenvolvedor IOS no Spotify)](https://github.com/rockbruno).
 
 [2] - [MacMagazine no Ar](https://open.spotify.com/show/52IrqJ0ZwPVp0kKXaOWnLP?si=bRsNjP24QyG7Pqol_evtEw)
-Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na língua portuguesa.
+
+Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre o mundo Apple no Brasil e na língua portuguesa.
 
 ---
 
