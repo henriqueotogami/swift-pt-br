@@ -8,28 +8,33 @@ Além disso, também contém links úteis sobre o mundo Apple.
 
 ---
 
-## [Índice](#index)
+## Índice
 
-|                                                                     |                               |                            |
+|                                                                     |                               |                           |
 | :------------------------------------------------------------------ | :---------------------------: | :------------------------: |
-| Artigos: Medium                                                     |  [PT-BR](#artigos-medium-pt)  |  [EN](#artigos-medium-en)  |
-| Comunidades                                                         |   [PT-BR](#comunidades-pt)    |   [EN](#comunidades-en)    |
-| Cursos gratuitos                                                    | [PT-BR](#cursos-gratuitos-pt) | [EN](#cursos-gratuitos-en) |
-| Cursos pagos                                                        |   [PT-BR](#cursos-pagos-pt)   |   [EN](#cursos-pagos-en)   |
-| Instagram                                                           |    [PT-BR](#instagram-pt)     |    [EN](#instagram-en)     |
-| Livros                                                              |      [PT-BR](#livros-pt)      |      [EN](#livros-en)      |
-| Podcasts                                                            |     [PT-BR](#podcasts-pt)     |     [EN](#podcasts-en)     |
-| Sites                                                               |      [PT-BR](#sites-pt)       |      [EN](#sites-en)       |
-| Youtube                                                             |     [PT-BR](#youtube-pt)      |     [EN](#youtube-en)      |
-| [Sobre o Apple Developer Academy](#sobre-o-apple-developer-academy) |
-| [Universidades Brasileiras](#universidades-brasileiras)             |
+| Artigos: Medium                                                     |  [PT-BR](#artigos-medium-pt-br)  |  [EN (indisponível)](#artigos-medium-en)  |
+| Comunidades                                                         |   [PT-BR](#comunidades-pt-br)    |   [EN (indisponível)](#comunidades-en)    |
+| Cursos gratuitos                                                    | [PT-BR](#cursos-gratuitos-pt-br) | [EN (indisponível)](#cursos-gratuitos-en) |
+| Cursos pagos                                                        |   [PT-BR](#cursos-pagos-pt-br)   |   [EN (indisponível)](#cursos-pagos-en)   |
+| Instagram                                                           |    [PT-BR](#instagram-pt-br)     |    [EN (indisponível)](#instagram-en)     |
+| Livros                                                              |      [PT-BR](#livros-pt-br)      |      [EN (indisponível)](#livros-en)      |
+| Podcasts                                                            |     [PT-BR](#podcasts-pt-br)     |     [EN (indisponível)](#podcasts-en)     |
+| Sites                                                               |      [PT-BR](#sites-pt-br)       |      [EN](#sites-en)       |
+| Youtube                                                             |     [PT-BR](#youtube-pt-br)      |     [EN](#youtube-en)      |
+| [Sobre o Apple Developer Academy](#sobre-o-apple-developer-academy) ||
+| [Universidades Brasileiras](#universidades-brasileiras)             ||
 
-![swift-logo](swift-og.png)
+&nbsp;
+
+<center>
+<img width="auto" src="./Develop-in-Swift.png">
+</center>
 
 ---
-### [Artigos: Medium](#artigos-medium-pt)
 
-[Voltar ao índice](#index)
+### Artigos: Medium PT-BR
+
+[Voltar ao índice](#índice)
 
 [1] - [Academy@EldoradoCPS](https://medium.com/academy-eldoradocps)
 
@@ -49,17 +54,17 @@ Além disso, também contém links úteis sobre o mundo Apple.
 
 ---
 
-### [Comunidades](#comunidades-pt)
+### Comunidades PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Discord: Rocketseat - #Swift](https://rocketseat.com.br)
 Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O site vai ser redirecionado para o link de acesso da comunidade no Discord.
 
 ---
-### [Cursos gratuitos](#cursos-gratuitos-pt)
+### Cursos gratuitos PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Stanford University: CS193p Iphone Application Development - Spring 2020](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 
@@ -69,34 +74,34 @@ Obs: Abaixo, no link [2] do Youtube, o Filipe Deschamps ensina como ativar as le
 
 ---
 
-### [Cursos pagos](#cursos-pagos-pt)
+### Cursos pagos PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Alura: Formação IOS](https://www.alura.com.br/formacao-ios)
 
 --- 
 
-### [Instagram](#instagram-pt)
+### Instagram PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Nina Talks | UX Design e Tech by Karina Tronkos](https://www.instagram.com/nina_talks/)
 
 ---
 
-### [Livros](#livros-pt)
+### Livros PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Casa do Código: Swift - Programe para Iphone e Ipad. Escrito por Guilherme Silveira e Joviane Jardim.](https://www.casadocodigo.com.br/products/livro-swift-ios)
 Obs: Na escolha do e-book, voce terá o direito de acesso às futuras atualizações do livro.
 
 ---
 
-### [Podcasts](#podcasts-pt)
+### Podcasts PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [Build Failed Podcast (pt-br)](https://open.spotify.com/show/6sOFIDT8ELXygixjYBTAb2?si=WcdJEoecRtiq2AY5_U2gQw)
 Apresentado por [Bruno Ramos (desenvolvedor IOS no IFood)](https://github.com/bruno-hcr), [Fabrício Serralvo (desenvolvedor IOS no IFood)](https://github.com/serralvo) e [Bruno Rocha (desenvolvedor IOS no Spotify)](https://github.com/rockbruno).
@@ -106,9 +111,9 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 
 ---
 
-### [Sites](#sites-pt)
+### Sites PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 [1] - [DevMedia: Desenvolvimento IOS: Conheça a linguagem Swift (2014)](https://www.devmedia.com.br/desenvolvimento-ios-conheca-a-linguagem-swift/31860)
 
@@ -118,9 +123,9 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 
 ---
 
-### [Youtube](#youtube-pt)
+### Youtube PT-BR
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 #### Canais
 
@@ -148,9 +153,9 @@ Podcast do MacMagazine, um dos maiores sites sobre o mundo Apple no Brasil e na 
 
 ---
 
-## [Sobre o Apple Developer Academy](#sobre-o-apple-developer-academy)
+## Sobre o Apple Developer Academy
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
 ### O que é?
 
@@ -166,7 +171,7 @@ Para atingir os objetivos, emprega-se a metodologia de aprendizado baseado em de
 
 Fonte do texto: https://developeracademyucb.com.br
 
-### [Universidades Brasileiras](#universidades-brasileiras)
+### Universidades Brasileiras
 
 [1] - [FUCAPI - Fundação Centro de Análise, Pesquisa e Inovação Tecnológica - Manaus/AM]()
 
@@ -190,7 +195,7 @@ Fonte do texto: https://developeracademyucb.com.br
 
 ---
 
-### Youtube
+### Youtube A-D-A
 
 [1] - [PUC-Rio: O que é desenvolver? - Apple Developer Academy](https://www.youtube.com/watch?v=5AIyzNsfOzk)
 
@@ -204,14 +209,14 @@ Fonte do texto: https://developeracademyucb.com.br
 
 # Conteúdos em Inglês
 
-[Voltar ao índice](#index)
+[Voltar ao índice](#índice)
 
-### [Sites](#sites-en)
+### Sites EN
 
 [1] - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com)
 
 ---
-### [Youtube](#youtube-en)
+### Youtube EN
 
 #### Canais
 
@@ -232,6 +237,8 @@ Fonte do texto: https://developeracademyucb.com.br
 [4] - [Paul Hudson: Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuas6GrfsUiFPShGXmaVDbgN)
 
 [5] - [Paul Hudson: Swift in Sixty Seconds from Hacking with Swift](https://www.youtube.com/playlist?list=PLuoeXyslFTuajnHpp2jKCyOz2ZhP5OTkN)
+
+## [Voltar ao topo ^](#índice)
 
 ---
 
