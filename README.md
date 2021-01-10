@@ -177,9 +177,17 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 
 [Voltar ao índice](#índice)
 
+### Instagram PT-BR
+
+[1] - [Daily Dose of Swift by Pamela Ianovalli](https://www.instagram.com/dailydoseofswift/)
+
+---
+
 ### Sites EN
 
 [1] - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com)
+
+[2] - [Daily Dose of Swift by Pamela Ianovalli](https://dailydoseofswift.com)
 
 ---
 ### Youtube EN
@@ -191,6 +199,8 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 [2] - [Mayuko Inoue | IOS Engineer](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
 
 [3] - [Sara Dietschy | Rhymes with peachy](https://www.youtube.com/user/saradietschy)
+
+[4] - [Daily Dose of Swift by Pamela Ianovalli](https://www.youtube.com/channel/UCabPpdhp4GMHWwXDldWUn4Q)
 
 #### Vídeos / Playlists
 
