@@ -282,10 +282,6 @@ Fonte do texto: https://developeracademyucb.com.br
 
 ## [Voltar ao topo ^](#índice)
 
-&nbsp;
-
-## Repositório desenvolvido por Henrique Matheus Alves Pereira 🦁
-
 ## Contribuidores
 
 <a target="_blank" href="https://github.com/HenriqueMAP">
