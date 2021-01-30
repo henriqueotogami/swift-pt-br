@@ -285,3 +285,13 @@ Fonte do texto: https://developeracademyucb.com.br
 &nbsp;
 
 ## Repositório desenvolvido por Henrique Matheus Alves Pereira 🦁
+
+## Contribuidores
+
+<a target="_blank" href="https://github.com/HenriqueMAP">
+<img width="150" src="https://github.com/HenriqueMAP/swift-pt-br/blob/main/Profile-photo7.png?raw=true">
+<a/>
+
+<a target="_blank" href="https://github.com/vitoralvesp">
+<img width="150" src="https://github.com/HenriqueMAP/swift-pt-br/blob/main/Vitor-1.png?raw=true">
+<a/>
