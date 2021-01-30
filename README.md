@@ -1,4 +1,4 @@
-# Swift PT-BR
+# Swift PT-BR 🇧🇷
 
 ## Descrição
 
@@ -284,6 +284,4 @@ Fonte do texto: https://developeracademyucb.com.br
 
 &nbsp;
 
----
-
-## Desenvolvido por Henrique Matheus Alves Pereira 🦁
+## Repositório desenvolvido por Henrique Matheus Alves Pereira 🦁
