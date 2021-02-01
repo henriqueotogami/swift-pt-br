@@ -37,7 +37,7 @@ Além disso, também contém links úteis sobre o mundo Apple.
 
 ---
 
-### Artigos: Medium PT-BR
+### Artigos: Medium PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -59,7 +59,7 @@ Além disso, também contém links úteis sobre o mundo Apple.
 
 ---
 
-### Comunidades PT-BR
+### Comunidades PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -68,19 +68,28 @@ Além disso, também contém links úteis sobre o mundo Apple.
 Após a inscrição na Rocketseat, vá em "Discover" e depois em "Comunidade". O site vai ser redirecionado para o link de acesso da comunidade no Discord.
 
 ---
-### Cursos gratuitos PT-BR
+### Cursos gratuitos PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
 [1] - [Stanford University: CS193p Iphone Application Development - Spring 2020](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG)
 
+Aborda os conhecimentos mais recentes de programação em Swift, utilizando o SwiftUI.
+
 Obs: Abaixo, no link do [Youtube PT-BR](#youtube-pt-br), o [Filipe Deschamps](https://github.com/filipedeschamps) ensina como ativar as legendas em português brasileiro da lista de vídeos do curso da Stanford, mencionado acima.
 
 [2] - [Digital Innovation One: Conhecendo a base do Swift](https://digitalinnovation.one/cursos/conhecendo-a-base-do-swift)
 
+Aborda somente UIKit, não aborda SwiftUI.
+
+[3] - [Desenvolvimento iOS em Swift Por PUCRS](https://itunes.apple.com/br/course/id937721240)
+
+PUC-RS: Pontifícia Universidade Católica do Rio Grande do Sul. 
+Este material de curso só está disponível no app iTunes U para iPhone ou iPad. Aborda somente UIKit, não aborda SwiftUI.
+
 ---
 
-### Cursos pagos PT-BR
+### Cursos pagos PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -88,7 +97,7 @@ Obs: Abaixo, no link do [Youtube PT-BR](#youtube-pt-br), o [Filipe Deschamps](ht
 
 --- 
 
-### Instagram PT-BR
+### Instagram PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -96,7 +105,7 @@ Obs: Abaixo, no link do [Youtube PT-BR](#youtube-pt-br), o [Filipe Deschamps](ht
 
 ---
 
-### Livros PT-BR
+### Livros PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -106,7 +115,7 @@ Obs: Na escolha do E-book, voce terá o direito de acesso às futuras atualizaç
 
 ---
 
-### Podcasts PT-BR
+### Podcasts PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -120,7 +129,7 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 
 ---
 
-### Sites PT-BR
+### Sites PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -132,7 +141,7 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 
 ---
 
-### Youtube PT-BR
+### Youtube PT-BR 🇧🇷
 
 [Voltar ao índice](#índice)
 
@@ -177,20 +186,20 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 
 [Voltar ao índice](#índice)
 
-### Instagram PT-BR
+### Instagram EN 🇺🇸
 
 [1] - [Daily Dose of Swift by Pamela Ianovalli](https://www.instagram.com/dailydoseofswift/)
 
 ---
 
-### Sites EN
+### Sites EN 🇺🇸
 
 [1] - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com)
 
 [2] - [Daily Dose of Swift by Pamela Ianovalli](https://dailydoseofswift.com)
 
 ---
-### Youtube EN
+### Youtube EN 🇺🇸
 
 #### Canais
 
@@ -236,7 +245,9 @@ Para atingir os objetivos, emprega-se a metodologia de aprendizado baseado em de
 
 Fonte do texto: https://developeracademyucb.com.br
 
-### Universidades Brasileiras
+### Está disponível nas universidades citadas abaixo.
+
+### Universidades Brasileiras 🇧🇷
 
 [1] - [FUCAPI - Fundação Centro de Análise, Pesquisa e Inovação Tecnológica - Manaus/AM]()
 
