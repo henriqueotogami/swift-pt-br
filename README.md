@@ -147,27 +147,31 @@ Podcast do [MacMagazine](https://macmagazine.com.br), um dos maiores sites sobre
 
 #### Canais
 
-[1] - [Dev PUC-Rio](https://www.youtube.com/channel/UCWb9EHguiXaEvLcGZiydIqA)
+[1] - [Cícero Camargo CODEMUS](https://www.youtube.com/channel/UC9eWMeqQXV4l4j0xZgLHb-w)
 
-[2] - [Entendendo Iphone](https://www.youtube.com/channel/UCAz_Eszk3YjqVLw6oXbSKQA)
+[2] - [Dev PUC-Rio](https://www.youtube.com/channel/UCWb9EHguiXaEvLcGZiydIqA)
 
-[3] - [MacMagazine](https://www.youtube.com/channel/UC6ZImLwiIaVRYIGycqh5iLA)
+[3] - [Entendendo Iphone](https://www.youtube.com/channel/UCAz_Eszk3YjqVLw6oXbSKQA)
 
-[4] - [Nina Talks by Karina Tronkos](https://www.youtube.com/channel/UCiePf3WjIZGshGRkioCUGgQ)
+[4] - [MacMagazine](https://www.youtube.com/channel/UC6ZImLwiIaVRYIGycqh5iLA)
 
-[5] - [Thiago Aguiar](https://www.youtube.com/channel/UCrWWMZ6GVOM5zqYAUI44XXg)
+[5] - [Nina Talks by Karina Tronkos](https://www.youtube.com/channel/UCiePf3WjIZGshGRkioCUGgQ)
+
+[6] - [Thiago Aguiar](https://www.youtube.com/channel/UCrWWMZ6GVOM5zqYAUI44XXg)
 
 #### Vídeos / Playlists
 
 [1] - [Attekita Dev: Aprenda Swift e se torne um desenvolvedor IOS com cursos gratuitos 📱](https://www.youtube.com/watch?v=OV47giYphmk&t)
 
-[2] - [Código Fonte TV: Swift (a linguagem do IOS)](https://www.youtube.com/watch?v=ELa-PgWlYDI)
+[2] - [Cícero Camargo CODEMUS: SwiftUI + MVVM](https://www.youtube.com/playlist?list=PLaaOHqWQrhKt7WQIyh9vdhbwztmSVFiYA)
 
-[3] - [Filipe Deschamps: Curso grátis Swift e SwiftUI (Stanford 2020)](https://www.youtube.com/watch?v=r18Bvr3Dyfg&list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC&index=1)
+[3] - [Código Fonte TV: Swift (a linguagem do IOS)](https://www.youtube.com/watch?v=ELa-PgWlYDI)
 
-[4] - [Nina Talks: Unboxing Prêmios Apple Swift Student Challenge 2020](https://www.youtube.com/watch?v=i4SISbXTcjM)
+[4] - [Filipe Deschamps: Curso grátis Swift e SwiftUI (Stanford 2020)](https://www.youtube.com/watch?v=r18Bvr3Dyfg&list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC&index=1)
 
-[5] - [Thiago Aguiar: Tutoriais IOS](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
+[5] - [Nina Talks: Unboxing Prêmios Apple Swift Student Challenge 2020](https://www.youtube.com/watch?v=i4SISbXTcjM)
+
+[6] - [Thiago Aguiar: Tutoriais IOS](https://www.youtube.com/playlist?list=PLJ0AcghBBWSghADkQIbw-9I0m9WDOsI3s)
 
 ---
 
