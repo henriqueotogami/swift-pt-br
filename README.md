@@ -287,7 +287,7 @@ Fonte do texto: https://developeracademyucb.com.br
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
-- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/swift-pt-br/fork);
+- [x] Faça um fork deste repositório (https://github.com/henriqueotogami/swift-pt-br/fork);
 - [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
 - [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um Push ` git push origin my-new-feature ` ;
@@ -300,9 +300,9 @@ Fonte do texto: https://developeracademyucb.com.br
 ## Contribuidores
 
 <a target="_blank" href="https://github.com/HenriqueMAP">
-<img width="150" src="https://github.com/HenriqueMAP/swift-pt-br/blob/main/Profile-photo7.png?raw=true">
+<img width="150" src="https://github.com/henriqueotogami/swift-pt-br/blob/main/Profile-photo7.png?raw=true">
 <a/>
 
 <a target="_blank" href="https://github.com/vitoralvesp">
-<img width="150" src="https://github.com/HenriqueMAP/swift-pt-br/blob/main/Vitor-1.png?raw=true">
+<img width="150" src="https://github.com/henriqueotogami/swift-pt-br/blob/main/Vitor-1.png?raw=true">
 <a/>
